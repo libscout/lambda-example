@@ -1,0 +1,11 @@
+/.terraform.lock.hcl
+/env.tfvars
+/terraform.tfstate
+/terraform.tfstate.backup
+/tsconfig.tsbuildinfo
+zip
+*.js
+*.d.ts
+*.js.map
+node_modules
+.terraform

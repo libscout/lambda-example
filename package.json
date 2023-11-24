@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1502.0",
+    "typescript": "^5.3.2"
+  }
+}
